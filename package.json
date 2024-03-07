@@ -1,0 +1,28 @@
+{
+  "name": "countdown-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/clear": "^0.1.4",
+    "@types/date-fns": "^2.6.0",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.19"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "clear": "^0.1.0",
+    "inquirer": "^9.2.15",
+    "node": "^21.6.2"
+  }
+}
